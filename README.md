@@ -6,6 +6,7 @@ Infelizmente o video é privado mas colocarei os comentarios no codigo numerados
 estrutura diretorio projeto 
 
 <UNIP1>---SRC>--<controle> <IOuvinteBotao.java>
+           |               <Progrma.java>
            |    <modelo>   <Pessoa.java>
            |    <visao>    <TelaCadastroPessoa.java>  
            |
